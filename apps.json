@@ -20,6 +20,17 @@
       "versionName": "1.0",
       "versionCode": 1,
       "packageName": "net.w29.kinzie_wifiui"
+    },
+
+    {
+      "id": "2",
+      "name": "Donut",
+      "description": "renders a spinning ASCII donut, for some reason...",
+      "iconUrl": "https://wicorn29.github.io/WSD/apps/donut/icon.png",
+      "apkUrl": "https://wicorn29.github.io/WSD/apps/donut/donut.apk",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "packageName": "com.wicorn29.donut"
     }
 
     
