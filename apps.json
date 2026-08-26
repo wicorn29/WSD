@@ -23,7 +23,7 @@
     },
 
     {
-      "id": "2",
+      "id": "3",
       "name": "Donut",
       "description": "renders a spinning ASCII donut, for some reason...",
       "iconUrl": "https://wicorn29.github.io/WSD/apps/donut/icon.png",
