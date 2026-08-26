@@ -2,13 +2,13 @@
   "apps": [
     {
       "id": "1",
-      "name": "Test App",
-      "description": "An example app",
-      "iconUrl": "https://example.com/icon.png",
-      "apkUrl": "https://example.com/app.apk",
+      "name": "IMSP",
+      "description": "Use the onboard barcode scanner to quickly determine if a nintendo switch is patched.",
+      "iconUrl": "https://wicorn29.github.io/WSD/apps/IMSP/icon.png",
+      "apkUrl": "https://wicorn29.github.io/WSD/apps/IMSP/imsp.apk",
       "versionName": "1.0",
       "versionCode": 1,
-      "packageName": "com.example.test"
+      "packageName": "net.w29.imsp"
     }
   ]
 }
