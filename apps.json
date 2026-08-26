@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "id": "1",
+      "name": "Test App",
+      "description": "An example app",
+      "iconUrl": "https://example.com/icon.png",
+      "apkUrl": "https://example.com/app.apk",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "packageName": "com.example.test"
+    }
+  ]
+}
