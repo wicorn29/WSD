@@ -13,13 +13,13 @@
 
     {
       "id": "2",
-      "name": "W29 Software Dist.",
-      "description": "An app store, for wicorn29 devices.",
-      "iconUrl": "",
-      "apkUrl": "https://wicorn29.github.io/WSD/WSD/debugV1.apk",
+      "name": "TEST",
+      "description": "TEST",
+      "iconUrl": "TEST",
+      "apkUrl": "TEST",
       "versionName": "1.0",
       "versionCode": 1,
-      "packageName": "net.w29.wsd"
+      "packageName": "net.example.wicorn29testapp"
     }
 
     
