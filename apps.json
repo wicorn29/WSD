@@ -13,13 +13,13 @@
 
     {
       "id": "2",
-      "name": "TEST",
-      "description": "TEST",
-      "iconUrl": "TEST",
-      "apkUrl": "TEST",
+      "name": "Kinzie Wi-Fi UI",
+      "description": "a lightweight WI-FI manager for kiosks",
+      "iconUrl": "https://wicorn29.github.io/WSD/apps/KinzieWiFiUI/icon.png",
+      "apkUrl": "https://wicorn29.github.io/WSD/apps/KinzieWiFiUI/kinziewifiui.apk",
       "versionName": "1.0",
       "versionCode": 1,
-      "packageName": "net.example.wicorn29testapp"
+      "packageName": "net.w29.kinzie_wifiui"
     }
 
     
